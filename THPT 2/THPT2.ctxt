@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=THPT2()
+comment0.text=\r\n\ This\ method\ sets\ the\ discountPercent\ and\ taxRate\ to\ a\ certain\ number\r\n\ @param\ discountPercent\ is\ the\ discount\ percent\ for\ the\ item\r\n\ @param\ taxRate\ is\ the\ tax\ for\ the\ item\r\n
+comment1.params=
+comment1.target=double\ calcDiscountPrice()
+comment1.text=\r\n\ this\ method\ does\ the\ math\ for\ the\ discount\ price\r\n\ @return\ discountPrice\ is\ the\ item\ price\ with\ the\ discount\ applied\r\n
+comment2.params=
+comment2.target=double\ calcTaxPrice()
+comment2.text=\r\n\ this\ method\ does\ the\ math\ for\ the\ tax\ price\r\n\ @return\ taxPrice\ is\ the\ item\ price\ with\ the\ discount\ and\ tax\ applied\r\n
+comment3.params=
+comment3.target=double\ calcFinalPrice()
+comment3.text=\r\n\ this\ method\ does\ the\ math\ for\ the\ final\ price\r\n\ @return\ finalPrice\ is\ the\ item\ price\ with\ everything\ applied\r\n
+comment4.params=newPrice
+comment4.target=double\ setPrice(double)
+comment4.text=\r\n\ this\ method\ just\ returns\ the\ price\ that\ the\ customer\ entered\r\n\ @return\ the\ price\ of\ the\ item\r\n
+comment5.params=newDiscount
+comment5.target=double\ setDiscountPercent(double)
+comment5.text=\r\n\ this\ method\ just\ returns\ the\ discount\ that\ the\ customer\ entered\r\n\ @return\ the\ discount\ of\ the\ item\r\n
+comment6.params=
+comment6.target=double\ getPrice()
+comment6.text=\r\n\ this\ method\ just\ returns\ the\ orginal\ price\ of\ the\ item\r\n\ @return\ the\ original\ price\ of\ the\ item\r\n
+comment7.params=newDiscount
+comment7.target=void\ getDiscountPercent(double)
+comment7.text=\r\n\ this\ method\ just\ returns\ the\ original\ discount\ of\ the\ item\r\n\ @return\ the\ original\ discount\ of\ the\ item\r\n
+numComments=8

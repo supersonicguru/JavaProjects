@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=onFloor
+comment0.target=Elevator(int)
+comment0.text=\r\n\ Creates\ a\ Elevator\ object,\ the\ starting\ floor\ is\ 3\r\n
+comment1.params=
+comment1.target=void\ up()
+comment1.text=\r\n\ increases\ the\ floor\ by\ 1\r\n
+comment2.params=
+comment2.target=void\ down()
+comment2.text=\r\n\ decreases\ the\ floor\ by\ 1\r\n
+comment3.params=onFloor
+comment3.target=int\ getFloor(int)
+comment3.text=\r\n\ entering\ any\ number\ displays\ what\ floor\ the\ elevator\ is\ on\r\n
+numComments=4

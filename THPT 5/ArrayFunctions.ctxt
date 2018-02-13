@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=testArray
+comment0.target=void\ printMe(double[])
+comment0.text=\r\n\ This\ method\ prints\ out\ the\ array\r\n\ @param\ testArray\ \=\ the\ array\ in\ the\ driver\ that\ we\ are\ using\r\n
+comment1.params=testArray
+comment1.target=double[]\ sortMe(double[])
+comment1.text=\r\n\ This\ method\ sorts\ the\ array\ in\ ascending\ order\r\n\ @param\ stestArray\ \=\ the\ array\ in\ the\ driver\ that\ we\ are\ using\r\n\ @return\ returns\ the\ array\ sorted\r\n
+comment2.params=testArray
+comment2.target=double\ getMax(double[])
+comment2.text=\r\n\ This\ method\ finds\ the\ greatest\ number\ in\ the\ array\r\n\ @param\ testArray\ \=\ the\ array\ in\ the\ driver\ that\ we\ are\ using\r\n\ @return\ the\ greatest\ number\ in\ the\ array\r\n
+comment3.params=testArray
+comment3.target=double\ getMin(double[])
+comment3.text=\r\n\ This\ method\ finds\ the\ lowest\ number\ in\ the\ array\r\n\ @param\ testArray\ \=\ the\ array\ in\ the\ driver\ that\ we\ are\ using\r\n\ @return\ the\ lowest\ number\ in\ the\ array\r\n
+comment4.params=testArray
+comment4.target=double\ sumMeUp(double[])
+comment4.text=\r\nThis\ method\ adds\ up\ all\ the\ numbers\ in\ the\ array\r\n@param\ testArray\ \=\ the\ array\ in\ the\ driver\ that\ we\ are\ using\r\n@return\ the\ sum\ of\ all\ the\ numbers\ in\ te\ array\r\n
+comment5.params=testArray
+comment5.target=double[]\ reverseMe(double[])
+comment5.text=\r\n\ This\ method\ reverses\ the\ order\ of\ the\ numbers\r\n\ @param\ testArray\ \=\ the\ array\ in\ the\ driver\ that\ we\ are\ using\r\n\ @return\ it\ returns\ the\ new\ array\r\n
+comment6.params=testArray\ found
+comment6.target=int\ whereAmI(double[],\ double)
+comment6.text=\r\n\ This\ method\ finds\ the\ index\ of\ whatever\ number\ is\ being\ asked\ for\r\n\ @param\ testArray\ \=\ the\ array\ in\ the\ driver\ that\ we\ are\ using\r\n\ @param\ found\ \=\ the\ number\ that\ is\ being\ searched\ for\r\n\ @return\ it\ returns\ the\ index\ of\ the\ found\ number\r\n\ @return\ returns\ -1\ if\ it\ doesn't\ find\ the\ number\r\n
+comment7.params=testArray
+comment7.target=double[]\ doubleMySize(double[])
+comment7.text=\r\n\ This\ method\ doubles\ the\ size\ of\ the\ array\r\n\ @param\ testArray\ \=\ the\ array\ in\ the\ driver\ that\ we\ are\ using\r\n\ @return\ it\ returns\ the\ new\ array\r\n
+numComments=8

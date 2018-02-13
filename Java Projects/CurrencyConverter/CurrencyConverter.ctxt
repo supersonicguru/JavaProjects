@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CurrencyConverter()
+comment0.text=\r\n\ the\ amount\ of\ money\ they\ are\ reletive\ to\ the\ us\ dollar\r\n
+comment1.params=ownDollars\ currency
+comment1.target=CurrencyConverter(double,\ char)
+comment1.text=\r\n\ this\ is\ the\ converter\ from\ dollars\ to\ the\ other\ currency\r\n
+comment2.params=ownDollars\ currency
+comment2.target=void\ CurrencyConverter(double,\ char)
+comment2.text=\r\ntype\ in\ the\ ammount\ of\ dollars\ you\ have\ and\ the\ type\ of\ \r\ncurrency\ you\ want\ to\ convert\ to\r\n
+comment3.params=currency
+comment3.target=double\ getCurrencyConverter(char)
+comment3.text=\r\n\ getting\ method\ for\ this\ class\r\n
+numComments=4

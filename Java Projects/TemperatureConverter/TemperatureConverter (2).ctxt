@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TemperatureConverter()
+comment1.params=temperature\ scale
+comment1.target=TemperatureConverter(double,\ char)
+comment2.params=temperature\ scale
+comment2.target=void\ setTemperature(double,\ char)
+comment3.params=type
+comment3.target=double\ getTemperature(char)
+numComments=4
